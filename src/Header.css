@@ -1,0 +1,17 @@
+header {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  flex-direction: column;
+  background: url("world.jpg");
+  height: 150px;
+}
+
+header h1 {
+ margin: 0;
+ padding: 0;
+ color: white;
+ font-size: 40px;
+ text-shadow: 2px 2px black; 
+}
+
